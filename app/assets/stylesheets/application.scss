@@ -16,8 +16,8 @@ body {
 }
 
 .splashtext {
-    margin-top: 0;
-    margin-bottom: 1rem;
+  margin-top: 0;
+  margin-bottom: 1rem;
 }
 
 /* Nav */
@@ -101,7 +101,9 @@ nav {
 }
 
 /* Groups/categories */
-.fixed-button, .sign-up, .log-in {
+.fixed-button,
+.sign-up,
+.log-in {
   display: flex;
   justify-content: center;
   align-items: center;
