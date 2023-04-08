@@ -1,5 +1,3 @@
-<img src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="ruby" height="auto" />
-
 <div align="center">
   <h1><b>Budget App - Just Cents</b></h1>
 </div>
@@ -61,9 +59,9 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://)
+- [Live Demo Link](https://rails-4prl.onrender.com)
 
-- [Demo Video](https://)
+- [Demo Video](https://www.loom.com/share/4dc400d2087a469ba4f38a773fdea9d7)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
