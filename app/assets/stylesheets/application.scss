@@ -6,9 +6,18 @@ body {
   font-family: 'Montserrat', sans-serif;
 }
 
+.sign-up-color {
+  background-color: #3778c2;
+}
+
 .title {
   text-align: center;
   margin: 3rem;
+}
+
+.splashtext {
+    margin-top: 0;
+    margin-bottom: 1rem;
 }
 
 /* Nav */
@@ -58,9 +67,14 @@ nav {
   margin-top: 2rem;
 }
 
-.sign-up,
-.log-in {
+.sign-up-btn-boarder {
+  margin-top: 17rem;
   margin-bottom: 0.5rem;
+  width: 25rem;
+  height: 6rem;
+  background-color: #3778c2;
+  font-size: 20px;
+  border: none;
 }
 
 /* input error */
@@ -87,7 +101,7 @@ nav {
 }
 
 /* Groups/categories */
-.fixed-button {
+.fixed-button, .sign-up, .log-in {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -122,7 +136,7 @@ nav {
   display: flex;
   flex-direction: column;
   align-items: center;
-  margin: 20px 0;
+  margin: 60px 0;
 }
 
 /* Categories Card */
@@ -301,5 +315,5 @@ nav {
 
 /* button nudge */
 .but {
-  margin-top: 2rem;
+  margin-top: 20rem;
 }

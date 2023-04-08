@@ -61,7 +61,7 @@
 
 - [Live Demo Link](https://rails-4prl.onrender.com)
 
-- [Demo Video](https://www.loom.com/share/4dc400d2087a469ba4f38a773fdea9d7)
+- [Demo Video](https://www.loom.com/share/4781fedf3fc0412bac18c8ecac92df04)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
