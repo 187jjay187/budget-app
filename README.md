@@ -59,9 +59,9 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://www.loom.com/share/4dc400d2087a469ba4f38a773fdea9d7)
+- [Live Demo Link](https://rails-4prl.onrender.com)
 
-- [Demo Video](https://)
+- [Demo Video](https://www.loom.com/share/4dc400d2087a469ba4f38a773fdea9d7)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
